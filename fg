@@ -152,4 +152,3 @@ coroutine.wrap(function()
         task.wait(attackInterval)
     end
 end)()
---- yuki开源
